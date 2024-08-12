@@ -1,0 +1,41 @@
+PROPRIETARY LICENSE
+
+Project Name: Picture Metamorph API
+Owner: Anthony Garcia Acosta
+
+1. All Rights Reserved
+
+All rights to the software named “Picture Metamorph API” (hereinafter referred to as “the Software”) are reserved. No part of the Software may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner, except as permitted by this license.
+
+2. Terms of Use
+
+The use of the Software is permitted solely for personal and non-commercial purposes. This includes:
+
+Personal use on own devices.
+Modification of the source code for personal use.
+The following actions are strictly prohibited:
+
+Distributing the Software in any form.
+Integrating the Software into other projects or products without authorization.
+Using the Software for commercial purposes.
+3. Permissions
+
+Any additional permissions to use, copy, modify, or distribute the Software must be requested in writing from the owner and are subject to the owner’s approval. The owner reserves the right to grant or deny permissions at their sole discretion.
+
+4. Limitation of Liability
+
+The Software is provided “as is,” without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the owner be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+5. Termination
+
+The owner reserves the right to terminate this license at any time and for any reason. Upon termination, the user must immediately cease all use of the Software and destroy all copies in their possession.
+
+6. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of the country of residence of the owner, without regard to its conflict of law provisions.
+
+Contact
+
+For any inquiries or permission requests, please contact:
+Anthony Garcia Acosta
+anthonygarciaacosta133@gmail.com
